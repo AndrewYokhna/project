@@ -1,0 +1,18 @@
+.prof {
+    grid-area: c;
+    background-color: bisque;
+}
+
+.header_1 img {
+    width: 1000px;
+    height: 200px
+}
+
+.prof_1 img {
+    width: 50px;
+    height: 50px
+}
+
+.item {
+    color: white;
+}
